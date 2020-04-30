@@ -1,6 +1,6 @@
-# app
+# Simple Page Flutter
 
-A new Flutter project.
+A new simple single page flutter.
 
 ## Getting Started
 
